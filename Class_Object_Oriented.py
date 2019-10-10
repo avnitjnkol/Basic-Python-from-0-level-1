@@ -13,3 +13,4 @@ r2 = Robot("Jerry" , "30")                  #Creating Object r2
 
 r1.info()                                   #See output
 r2.info()
+#hello
